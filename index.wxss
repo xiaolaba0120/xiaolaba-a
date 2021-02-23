@@ -1,0 +1,33 @@
+/* pages/index/index.wxss */
+.a{
+  display: flex;
+  flex-direction: column;
+  height: 800rpx;
+  justify-content: space-around
+}
+
+.b{
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-around;
+}
+.c{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.b1{
+  height: 200rpx;
+  width: 200rpx;
+  background: center;
+  background-color: gray;
+}
+
+.taolun{
+  display: flex;
+  flex-direction: row;
+}
+.taolunyou{
+  background-color: lightyellow;
+}

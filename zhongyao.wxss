@@ -1,0 +1,49 @@
+/* pages/index/zhongyao/zhongyao.wxss */
+.yao{
+  padding: 3rpx;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.zuoyao{
+  width: 300rpx;
+  height: 2000rpx;
+  border:5rpx soild rgb(44, 17, 44);
+  border-right:5rpx soild tomato;
+  background-color: rgba(0, 255, 234, 0.041);
+}
+.youyao{
+  width: 100%;
+  height:2000rpx                    
+}                                             
+.yaolei{
+  width: 100%;
+  text-align: center;
+  height: 100rpx;
+  line-height: 100rpx;
+  border-bottom:2rpx solid yellow;
+}
+.atiao{
+  width: 10rpx;
+  height: 100rpx;
+}
+.curyaolei{
+  width: 100%;
+  text-align: center;
+  height: 100rpx;
+  line-height: 100rpx;
+  border-bottom:2rpx solid yellow;
+  background-color: rgba(50, 205, 115, 0.555);
+  border-right: red;
+
+}
+.yaolei1{
+  width: 100%;
+  text-align: center;
+  height: 100rpx;
+  line-height: 100rpx;
+  border-bottom:2rpx solid yellow;
+  background-color: rgba(153, 214, 178, 0.555);
+
+}

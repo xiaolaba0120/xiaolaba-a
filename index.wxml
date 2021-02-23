@@ -1,0 +1,11 @@
+<!--pages/index/index.wxml-->
+<view class="a">
+  <view class="b">
+    <view><button bindtap="gotoa" class="b1">中药</button></view>
+    <view><button bindtap="gotob" class="b1">方剂</button></view>
+  </view>
+  <view class="c">
+    <view><button bindtap="gotoc" class="b1">经典</button></view>
+    <view><button bindtap="gotod" class="b1">经络</button></view>
+  </view>
+</view>

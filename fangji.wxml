@@ -1,0 +1,2 @@
+<!--pages/index/zhongyao/zhongyao.wxml-->
+<button bindtap="back">返回</button>

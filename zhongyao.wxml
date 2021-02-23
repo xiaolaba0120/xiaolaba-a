@@ -1,0 +1,34 @@
+<!--pages/index/zhongyao/zhongyao.wxml-->
+<view class="yao">
+<scroll-view class="zuoyao"  scroll-y="2" style="height{{screenHeight}}px">
+  <view class="yaolei curyaolei">解表药</view>
+  <view class="yaolei">解表药</view>
+  <view class="yaolei">清热药</view>
+  <view class="yaolei">泻下药</view>
+  <view class="yaolei">祛风湿药</view>
+  <view class="yaolei">化湿药</view>
+  <view class="yaolei">利尿药</view>
+  <view class="yaolei">温里药</view>
+  <view class="yaolei">理气药</view>
+  <view class="yaolei">消食药</view>
+  <view class="yaolei">驱虫药</view>
+  <view class="yaolei">止血药</view>
+  <view class="yaolei">活血化瘀药</view>
+  <view class="yaolei">止咳平喘药</view>
+  <view class="yaolei">安神药</view>
+  <view class="yaolei">平肝熄风药</view>
+  <view class="yaolei">解表药</view>
+  <view class="yaolei">解表药</view>
+</scroll-view>
+<scroll-view class="youyao" style="height{{screenHeight}}px">
+  <scroll-view class="youyao"  scroll-y="2" style="height{{screenHeight}}px">
+  <view class="yaolei1">
+    <navigator url="/pages/index/zhongyao/mahuang/mahuang">
+    <text>发散风寒</text>
+    </navigator>
+  </view>
+  <view class="yaolei1">发散风热</view>
+</scroll-view>
+</scroll-view>
+</view>
+<button bindtap="back">返回</button>
